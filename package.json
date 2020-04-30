@@ -1,0 +1,24 @@
+{
+  "name": "testwebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "animate.css": "^3.6.1",
+    "bootstrap": "^4.0.0",
+    "datepicker-bootstrap": "^1.8.0",
+    "fancybox": "^3.0.1",
+    "font-awesome": "^4.7.0",
+    "init": "^0.1.2",
+    "jquery": "^3.3.1",
+    "npm": "^5.8.0",
+    "popper.js": "^1.14.1",
+    "sublime-js-prettier": "1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PG",
+  "license": "ISC",
+  "description": ""
+}
